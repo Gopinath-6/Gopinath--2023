@@ -1,0 +1,93 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<title>IDRBT Certifying Authority</title>
+
+<LINK REL=StyleSheet HREF="txt.css" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript1.2" SRC="HM_Intro.js" TYPE='text/javascript'></SCRIPT>
+<base target="frame3">
+<script LANGUAGE="javascript1.2" src="search.js" type='text/javascript'></script>
+</head>
+
+<!--<body leftmargin=1 topmargin=1 bgcolor="#E0E1E3" >-->
+<body leftmargin=1 topmargin=1 bgcolor="#FFFFFF" >
+
+
+<br>
+
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" >
+                <tr>
+                        <!-- <td width="4" background="image/about-left.gif">&nbsp;</td>-->
+                        <td width="100%" bgcolor="#FFFFFF" valign="top">
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#CDDDFC" align=center>
+                                 <tr>                                                                                        
+                                    <td width="200" bgColor="white" colspan="2" valign=center align=center height="40">
+                                     <img border="0" src="image/midbar.gif" alt="image" height="80" width="600">
+                                    </td>     
+                                 </tr>
+                                 <tr>
+                                    <td>
+
+                                    </td>
+                                 </tr>
+                             </table>        
+                        </td>
+                </tr>
+         </table>  
+         <div style="clear:both;"></div>
+        
+        
+         <table width="100%" border="0" cellspacing="20" cellpadding="0" align="center" >
+         <tr>
+             <b>
+             <td>
+                 <p><font color=blue size=3 face="Verdana"><b>Subscriber form</b></font></p>
+
+             </td>
+            </tr>
+        <tr>
+        <td>
+            <a href="Download\Documents Required for Production Certificate.zip" target="_window"><font color="#D37C7C" size=2 face="Verdana"><b>1) Download PRODUCTION Form </b></font></a><br>
+            <a href="Download\Documents Required for Pre Production Certificate.zip" target="_window"><font color="#D37C7C" size=2 face="Verdana"><b>2) Download TEST/UAT FORM</b></font></a>
+             
+</td>      
+</tr>
+<tr>
+    <td>
+       <b> <font color="#1B9A3B" size=2 face="Verdana">Please send your valuable feedback to </font><font color=blue size=2> <a href = "mailto:cafeedback@idrbt.ac.in"> cafeedback@idrbt.ac.in</a></font></b>
+    </td>
+</tr>
+<tr>
+    <td style="FONT-SIZE:13px; COLOR:#000000; LINE-HEIGHT:20px; FONT-FAMILY:Arial,Helvetica,sans-serif" align="justify">
+        <p>
+            <font size=2 color=black face="Verdana">
+                    <b>IDRBT CA issues certificates for Banks and Financial Institutions for RBI's PKI enabled applications such as PDO-NDS, SFMS, RTGS, CFMS, NEFT etc.</b>
+            </font>
+        </p>
+        <p>
+            <font size=2 color=black face="Verdana">
+                    IDRBT is an autonomous center for Development and Research in Banking Technology set up by Reserve Bank of India in 1996. IDRBT owns the Indian Financial Network (INFINET), the communication backbone for the Indian Banking and Financial sector. Various inter-bank and intra-bank applications ranging from Structured Financial Messaging System (SFMS), MIS, EFT, ECS, Electronic Debit, Online Processing and Trading in Government Securities, Centralized Funds querying for Banks and Financial Institutions, Anywhere/Anytime Banking and Inter-bank reconciliation are being implemented using the INFINET. 
+            </font>
+        </p>
+        <p>
+                <font size=2 color=black face="Verdana">
+                        IDRBT Certifying Authority fulfills the need for trusted third party services in Electronic Commerce by issuing Digital Certificates that attests to some fact about the subject of the certificate, which provides independent confirmation of an attribute claimed by a person offering a Digital Signature.     
+                </font>
+        </p>
+        <p>
+                <font size=2 color=black face="Verdana">
+                        For securing the transactions through INFINET, IDRBT provides high end Public Key Infrastructure (PKI) based services and solutions to individuals, organizations as well as governments, that enable trust and security. IDRBT has set up a high-end, global standards- based processing Center at its campus at Hyderabad, capable of issuing thousands of Digital Certificates, an important component of PKI. As a licensed Certifying Authority  by the Controller of Certifying Authorities (CCA), Ministry of Communication and Information Technology, Government of India, IDRBT CA issues, administers and revokes the digital certificates which are trust worthy and legally valid under Information Technology Act, 2000.
+                    </font> 
+        </p>
+
+    </td>
+</tr>
+<tr>
+    <td>
+            <font size=2 color=black face="Verdana"> Click here to proceed with the</font><a href="https://subscriber.idrbtca.org.in" target="_blank">  <b>IDRBT CA Certification services</b></a>
+    </td>
+</tr>
+        </table>
+
+    </body>
+    </html>
